@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\¿­Âå¿Í»§¶Ë\XY_HTTP_RemoteControl.exe
+
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --new-window www.mbcntest.com/admin_ferrero/backend/machine/PC3/index.php --kiosk
+
+
+"C:\Program Files (x86)\Windows Media Player\wmplayer.exe" "C:\Users\Administrator\Desktop\Magic box brand story£­music£¨home and dry£©.mp4" /fullscreen
+Magic box brand story£­music£¨home and dry£©.mp4"
